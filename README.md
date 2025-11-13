@@ -1,6 +1,15 @@
-# TryHackMe — Mr. Robot CTF Walkthrough
+🧠 TryHackMe: Mr. Robot CTF
 
-This repository contains my personal walkthrough and proof of completion for the TryHackMe **Mr. Robot CTF** room.  
-I solved this room myself and will update this repo later with detailed steps, commands, and notes.
+This repository contains my walkthrough and screenshots from the **Mr. Robot CTF** room on TryHackMe.
 
+It includes:
 
+- Step-by-step process I followed during the challenge  
+- Proof of completion through captured screenshots  
+- Notes for future reference and learning
+
+**Status:** Completed ✅  
+**Platform:** TryHackMe  
+**Focus:** Enumeration • Exploitation • Privilege Escalation • Reverse Shells
+
+A detailed write-up and explanations will be added soon.
